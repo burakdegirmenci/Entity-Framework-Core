@@ -1,0 +1,17 @@
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Infrastructure\bin\Debug\net8.0\EntityFramework.Infrastructure.deps.json
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Infrastructure\bin\Debug\net8.0\EntityFramework.Infrastructure.runtimeconfig.json
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Infrastructure\bin\Debug\net8.0\EntityFramework.Infrastructure.dll
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Infrastructure\bin\Debug\net8.0\EntityFramework.Infrastructure.pdb
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Infrastructure\bin\Debug\net8.0\EntityFramework.Domain.dll
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Infrastructure\bin\Debug\net8.0\EntityFramework.Domain.pdb
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Infrastructure\obj\Debug\net8.0\EntityFramework.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Infrastructure\obj\Debug\net8.0\EntityFramework.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Infrastructure\obj\Debug\net8.0\EntityFramework.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Infrastructure\obj\Debug\net8.0\EntityFramework.Infrastructure.AssemblyInfo.cs
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Infrastructure\obj\Debug\net8.0\EntityFramework.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Infrastructure\obj\Debug\net8.0\EntityFramework.Infrastructure.csproj.CopyComplete
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Infrastructure\obj\Debug\net8.0\EntityFramework.Infrastructure.dll
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Infrastructure\obj\Debug\net8.0\refint\EntityFramework.Infrastructure.dll
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Infrastructure\obj\Debug\net8.0\EntityFramework.Infrastructure.pdb
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Infrastructure\obj\Debug\net8.0\EntityFramework.Infrastructure.genruntimeconfig.cache
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Infrastructure\obj\Debug\net8.0\ref\EntityFramework.Infrastructure.dll

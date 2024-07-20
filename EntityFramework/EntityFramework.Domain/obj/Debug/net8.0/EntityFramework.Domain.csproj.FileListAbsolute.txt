@@ -1,0 +1,11 @@
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Domain\bin\Debug\net8.0\EntityFramework.Domain.deps.json
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Domain\bin\Debug\net8.0\EntityFramework.Domain.dll
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Domain\bin\Debug\net8.0\EntityFramework.Domain.pdb
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Domain\obj\Debug\net8.0\EntityFramework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Domain\obj\Debug\net8.0\EntityFramework.Domain.AssemblyInfoInputs.cache
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Domain\obj\Debug\net8.0\EntityFramework.Domain.AssemblyInfo.cs
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Domain\obj\Debug\net8.0\EntityFramework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Domain\obj\Debug\net8.0\EntityFramework.Domain.dll
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Domain\obj\Debug\net8.0\refint\EntityFramework.Domain.dll
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Domain\obj\Debug\net8.0\EntityFramework.Domain.pdb
+C:\Users\degir\OneDrive\Masaüstü\C# Projelerim\EntityFramework\EntityFramework.Domain\obj\Debug\net8.0\ref\EntityFramework.Domain.dll
